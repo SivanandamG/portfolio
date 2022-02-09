@@ -3,9 +3,9 @@
   height: 400px;
   display: flex;
 }
-h1 {
-  margin: 0px;
+.parent h1 {
   font-family: monospace;
+  color: aliceblue;
 }
 .box-one {
   width: 35%;
@@ -18,7 +18,7 @@ h1 {
   background: linear-gradient(-57deg, #F0DA50 63%, #252E3B 42%);
   color: white;
 }
-img {
+.image img {
   max-width: 100%;
   height: auto;
   border-radius: 50%;
@@ -36,11 +36,16 @@ img {
   text-decoration: none;
 }
 .contact-link {
-  padding: 10px 30px;
+  padding: 10px 20px;
   background: #F7DF1E;
   border-radius: 5px;
   font-family: monospace;
   font-weight: 700;
   font-size: 18px;
   color: #000000;
+  margin-left: 33%;
+}
+
+.contact-link:hover {
+  background: #8bdd1f;
 }

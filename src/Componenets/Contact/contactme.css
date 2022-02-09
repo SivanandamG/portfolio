@@ -1,0 +1,47 @@
+#contactdiv{
+     background-color: rgb(240, 218, 80);
+
+}
+
+#mail{
+     width: 30%;
+     margin: auto;
+     margin-left: 42%;
+}
+
+#submitbtn{
+     width: 60%;
+     height: 30px;
+     margin: auto;
+     background-color: black;
+     color: white;
+     cursor: pointer;
+}
+
+#submitbtn:hover{
+     background-color:#f0da50;
+     color: rgb(0, 0, 0);
+}
+
+.input{
+     background-color: #f0da50;
+     outline: none;
+     border: none;
+     border-bottom: 1px solid black;
+}
+
+#techstack-icon{
+     margin: auto;
+     margin-top: 10px;
+     width: 10%;
+     /* padding-bottom: 30px; */
+     /* border: 3px solid black; */
+}
+
+#techstack-icon i{
+     margin-left: 10%;
+}
+
+#techstack-icon~p{
+     margin-left:43%;
+}

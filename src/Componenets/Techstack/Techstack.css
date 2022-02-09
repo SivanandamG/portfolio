@@ -1,0 +1,84 @@
+#techstack{
+     width: 100%;
+     height: auto;
+     background-color: rgb(240, 218, 80);
+     padding-bottom: 30px;
+}
+
+#techstack>.techstack{
+     width: 65%;
+     height: 60px;
+     /* padding-top: 20px; */
+     margin: auto;
+}
+
+#techstack> h1{
+     padding-top: 30px;
+}
+
+.techstack img{
+     width:4%;
+     margin-left: 7.5%;
+}
+
+#techstack>.techstack i{
+     font-size: 300%;
+     margin-left: 6.5%;
+}
+.class-tech{
+     width: 60%;
+     margin: auto;
+     margin-top: 10px;
+}
+
+
+.class-tech span:nth-child(1){
+     margin: 2.5%;
+}.class-tech span:nth-child(2){
+     margin: 3%;
+}.class-tech span:nth-child(3){
+     margin: 3%;
+}.class-tech span:nth-child(4){
+     margin: 3%;
+}.class-tech span:nth-child(5){
+     margin: 5%;
+}.class-tech span:nth-child(6){
+     margin: 4.5%;
+}.class-tech span:nth-child(7){
+     margin: 4%;
+}.class-tech span:nth-child(8){
+     margin: 2.5%;
+}
+
+#techstack .proficiency{
+     width: 40%;
+     margin: auto;
+     margin-top: 30px;
+}
+
+.proficiency i{
+     font-size: 300%;
+     margin-left: 28%;
+}
+.class{
+     margin: auto;
+     width: 25%;
+}
+
+.class span{
+     margin: 4%;
+}
+
+.class span:nth-child(1){
+     margin-left: 11%;
+}
+
+.class span:nth-child(2){
+     margin-left: 7.5%;
+}
+
+.proficiency img{
+     width:6.5%;
+     margin-left: 11.5%;
+}
+

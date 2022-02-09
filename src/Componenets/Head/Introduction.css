@@ -4,16 +4,14 @@
 	margin: 0;
 	min-height: 100vh;
 }
+
 ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-
-#navbar h1,
-h3,
-li {
+#navbar h1 {
 	color: #34495e;
 }
 
@@ -35,7 +33,6 @@ li {
 .logo li,h1,
 .main-nav li {
 	padding: 10px 15px;
-	text-transform: uppercase;
 	text-align: center;
 	display: block;
 }
