@@ -1,6 +1,6 @@
 #contactdiv{
      background-color: rgb(240, 218, 80);
-
+     padding-bottom: 30px;
 }
 
 #mail{
@@ -12,7 +12,7 @@
 #submitbtn{
      width: 60%;
      height: 30px;
-     margin: auto;
+     margin-top: 20px;
      background-color: black;
      color: white;
      cursor: pointer;
@@ -34,7 +34,7 @@
      margin: auto;
      margin-top: 10px;
      width: 10%;
-     /* padding-bottom: 30px; */
+     padding-top: 30px;
      /* border: 3px solid black; */
 }
 
@@ -44,4 +44,5 @@
 
 #techstack-icon~p{
      margin-left:43%;
+     padding-bottom: 5px;
 }

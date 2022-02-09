@@ -2,18 +2,19 @@
      width: 100%;
      height: auto;
      background-color: rgb(240, 218, 80);
-     padding-bottom: 30px;
+     padding-bottom: 40px;
+     border: 3px rgb(240, 218, 80) solid;
 }
 
 #techstack>.techstack{
      width: 65%;
      height: 60px;
-     /* padding-top: 20px; */
+     padding-top: 20px;
      margin: auto;
 }
 
 #techstack> h1{
-     padding-top: 30px;
+     padding-top: 50px;
 }
 
 .techstack img{

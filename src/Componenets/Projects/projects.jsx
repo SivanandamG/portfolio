@@ -11,7 +11,7 @@ export default function Projects({children}){
                     <img width={"100%"} src="https://github.com/SivanandamG/portfolio/blob/f1b20063a24aed531a0a8ad9f21fc6ff5e4b3a83/healthmug.png?raw=true" alt="" />
                     <p>Healthmug is exclusive for medicines with different types allopathy ,Homeopathy and more</p>
                     <div className="healthmug-links">
-                    <p><a href=""> github link</a></p>
+                    <p><a href="https://github.com/Akshay-Kumar2000/HealthMug-Clone-Project-" target="_blank"> github link</a></p>
                          <p><a href="">Demo link</a></p>
                     </div>
                </div>
@@ -20,7 +20,7 @@ export default function Projects({children}){
                     <img width={"100%"} src="https://github.com/SivanandamG/portfolio/blob/550f1f9e2efcb42f12e590d4d4750584e333d19a/buywow.png?raw=true" alt="" />
                     <p>buywow website is one stop destination for all beuty and grooming needs</p>
                     <div className="buywow-links">
-                         <p><a href=""> github link</a></p>
+                         <p><a href="https://github.com/SivanandamG/buyWowProject" target="_blank"> github link</a></p>
                          <p><a href="">Demo link</a></p>
                     </div>
                </div>

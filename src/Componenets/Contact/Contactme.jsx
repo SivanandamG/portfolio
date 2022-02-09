@@ -20,12 +20,12 @@ export default function Contact({children}){
                          </tr>
                     </tbody>
                </table>
-      </form><input id="submitbtn" type="submit" value="Send" />
+      <input id="submitbtn" type="submit" value="Send" /></form>
           </div>
                <div id="techstack-icon">
-                         <i style={{fontSize:"30px", color: 'black' }}  className="fab fa-github"></i>
-                         <i style={{fontSize:"30px", color: 'black'}} className="fab fa-linkedin"></i>
-                         <i style={{fontSize:"30px", color: 'black' }}  className="fab fa-twitter"></i>
+                        <a href="https://github.com/SivanandamG" target="_blank"> <i  style={{fontSize:"30px", color: 'black' }}  className="fab fa-github"></i></a>
+                        <a href="https://www.linkedin.com/in/sivanandam-gorantla-878a511b7/" target="_blank"> <i style={{fontSize:"30px", color: 'black'}} className="fab fa-linkedin"></i></a>
+                        <a href="https://twitter.com/Sivanan17585739" target="_blank"> <i style={{fontSize:"30px", color: 'black' }}  className="fab fa-twitter"></i></a>
                </div>
                <p>Location: Guntur,Andhra Pradesh</p>
                <p>Mobile: +91 8106251562</p>
