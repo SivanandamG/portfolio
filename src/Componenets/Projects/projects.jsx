@@ -21,7 +21,7 @@ export default function Projects({children}){
                     <p>buywow website is one stop destination for all beuty and grooming needs</p>
                     <div className="buywow-links">
                          <p><a href="https://github.com/SivanandamG/buyWowProject" target="_blank"> github link</a></p>
-                         <p><a href="">Demo link</a></p>
+                         <p><a href="https://buywowclone-web13.netlify.app/" target="_blank">Demo link</a></p>
                     </div>
                </div>
           </div>
