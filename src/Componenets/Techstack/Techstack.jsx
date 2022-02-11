@@ -13,7 +13,7 @@ export default function Techstack({children}){
                     <i style={{ color: '#000000' }}  className="fab fa-react"></i>
                     <i style={{  }} className="fab fa-node"></i>
                     <i style={{ color: '#000000' }} className="fab fa-npm"></i>
-                    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-bold-tal-revivo.png"/>                   
+                    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-bold-tal-revivo.png" alt="_blank"/>                   
                     <i style={{ color: '#000000' }} className="fab fa-python"></i>
                </div>
                
