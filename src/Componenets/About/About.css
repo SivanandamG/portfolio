@@ -9,7 +9,7 @@
   color: rgb(0, 0, 0);
 }
 .box-one {
-  width: 45%;
+  width: 85%;
   color: rgb(0, 0, 0);
   background-color: #F3C5C5;
   padding: 50px;
@@ -17,7 +17,7 @@
 }
 .box-two {
   width: 80%;
-  background: linear-gradient(-60deg, #FFEDDB 75%, #F3C5C5 50%);
+  background: linear-gradient(-65deg, #FFEDDB 75%, #F3C5C5 50%);
   color: rgb(0, 0, 0);
 }
 .image img {
