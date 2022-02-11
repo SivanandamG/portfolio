@@ -1,5 +1,5 @@
 #contactdiv{
-     background-color: rgb(240, 218, 80);
+     background-color: #E3B7A0;
      padding-bottom: 30px;
 }
 
@@ -19,12 +19,12 @@
 }
 
 #submitbtn:hover{
-     background-color:#f0da50;
+     background-color:#E3B7A0;
      color: rgb(0, 0, 0);
 }
 
 .input{
-     background-color: #f0da50;
+     background-color: #E3B7A0;
      outline: none;
      border: none;
      border-bottom: 1px solid black;
@@ -34,7 +34,8 @@
      margin: auto;
      margin-top: 10px;
      width: 10%;
-     padding-top: 30px;
+     /* padding-top: 13px; */
+     padding-bottom: 30px;
      /* border: 3px solid black; */
 }
 
@@ -44,5 +45,5 @@
 
 #techstack-icon~p{
      margin-left:43%;
-     padding-bottom: 5px;
+     /* padding-bottom: 5px; */
 }

@@ -1,43 +1,44 @@
 .parent {
-  background-color: #252E3B;
+  background-color: #F3C5C5;
   height: 450px;
   display: flex;
 }
 .parent h1 {
   font-family: monospace;
-  color: aliceblue;
+  color: rgb(0, 0, 0);
 }
 .box-one {
-  width: 35%;
-  color: white;
-  background-color: #252E3B;
+  width: 45%;
+  color: rgb(0, 0, 0);
+  background-color: #F3C5C5;
   padding: 50px;
+  padding-left: 200px;
 }
 .box-two {
   width: 80%;
-  background: linear-gradient(-57deg, #F0DA50 63%, #252E3B 42%);
-  color: white;
+  background: linear-gradient(-60deg, #FFEDDB 75%, #F3C5C5 50%);
+  color: rgb(0, 0, 0);
 }
 .image img {
   max-width: 100%;
   height: auto;
   border-radius: 50%;
-  border: 3px solid #F0DA50;
+  border: 3px solid #F3C5C5;
 }
 .image {
     height: 250px;
     width: 250px;
     border-radius: 50%;
-    margin-top: 8%;
-    margin-left: 27%;
+    margin-top: 10%;
+    margin-left: 5%;
 }
 .color-secondary, a {
-  color: #F0DA50;
+  color: #000000;
   text-decoration: none;
 }
 .contact-link {
   padding: 10px 20px;
-  background: #F7DF1E;
+  background: #ffddbb;
   border-radius: 5px;
   font-family: monospace;
   font-weight: 700;
@@ -47,5 +48,6 @@
 }
 
 .contact-link:hover {
-  background: #8bdd1f;
+  background: #FFEDDB;
 }
+

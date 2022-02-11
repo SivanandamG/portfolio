@@ -1,13 +1,13 @@
 #projectdiv{
-     background-color: rgb(37, 46, 59);
+     background-color: #EDCDBB;
      padding-bottom: 50px;
 }
 #projectdiv h1{
-     color: rgb(255, 255, 255);
+     color: rgb(0, 0, 0);
 }
 #projects{
      width: 100%;
-     height: 350PX;
+     height: 450PX;
      display: flex;
 }
 #projects p{
@@ -15,10 +15,10 @@
 }
 .projdiv{
      width: 25%;
-     height: 330PX;
-     box-shadow: -1px 2px 7px 2px rgba(248,255,0,0.75);
-     -webkit-box-shadow: -1px 2px 7px 2px rgba(248,255,0,0.75);
-     -moz-box-shadow: -1px 2px 7px 2px rgba(248,255,0,0.75);}
+     height: 400PX;
+     box-shadow: -1px 2px 17px 2px #daa7a7;
+     -webkit-box-shadow: -1px 2px 17px 2px #daa7a7;
+     -moz-box-shadow: -1px 2px 17px 2px #daa7a7;}
 
 .projdiv:nth-child(1){
      margin-left:20% ;
@@ -28,11 +28,11 @@
      margin-left:10% ;
 }
 #buywow{
-     background-color: rgb(240, 218, 80);
+     background-color: #EDCDBB;
 }
 
 #buywow img+p{
-     background-color: rgb(240, 218, 80);
+     background-color: #EDCDBB;
 }
 #buywow div{
      width:100%;
@@ -43,18 +43,18 @@
 .buywow-links p{
      width: 32%;
      height: 30px;
-     border-radius: 40%;
-     border: 3px rgb(241, 177, 177) solid;
+     border-radius: 5%;
+     /* border: 3px rgb(241, 177, 177) solid; */
      background-color: azure;
      margin-left: 12%;
-     margin-top: 20px;
+     margin-top: 30px;
 }
 .buywow-links p:hover{
-     background-color: rgb(37, 46, 59);
+     background-color: #E3B7A0;
 }
 
 #healthmug{
-     background-color: rgb(240, 218, 80);
+     background-color: #EDCDBB;
 }
 #healthmug div{
      width:100%;
@@ -65,15 +65,15 @@
 .healthmug-links p{
      width: 32%;
      height: 30px;
-     border: 3px rgb(241, 177, 177) solid;
-     border-radius: 40%;
+     /* border: 3px rgb(241, 177, 177) solid; */
+     border-radius: 5%;
      background-color: azure;
      margin-left: 12%;
-     margin-top: 20px;
+     margin-top: 30px;
 }
 
 .healthmug-links p:hover{
-     background-color: rgb(37, 46, 59);
+     background-color: #E3B7A0;
 }
 
 .healthmug-links p a{
