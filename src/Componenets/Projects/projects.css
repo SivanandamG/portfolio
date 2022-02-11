@@ -17,9 +17,9 @@
      width: 25%;
      height: 400PX;
      border-radius: 10%;
-     box-shadow: -1px 2px 17px 2px #daa7a7;
-     -webkit-box-shadow: -1px 2px 17px 2px #daa7a7;
-     -moz-box-shadow: -1px 2px 17px 2px #daa7a7;}
+     box-shadow: -1px 2px 17px 2px #FFEDDB;
+     -webkit-box-shadow: -1px 2px 17px 2px #FFEDDB;
+     -moz-box-shadow: -1px 2px 17px 2px #FFEDDB;}
 
 .projdiv:nth-child(1){
      margin-left:20% ;
@@ -29,11 +29,11 @@
      margin-left:10% ;
 }
 #buywow{
-     background-color: #EDCDBB;
+     background-color: #E3B7A0;
 }
 
 #buywow img+p{
-     background-color: #EDCDBB;
+     background-color: #E3B7A0;
 }
 #buywow div{
      width:100%;
@@ -51,11 +51,11 @@
      margin-top: 30px;
 }
 .buywow-links p:hover{
-     background-color: #E3B7A0;
+     background-color: #FFEDDB;
 }
 
 #healthmug{
-     background-color: #EDCDBB;
+     background-color: #E3B7A0;
 }
 #healthmug div{
      width:100%;
@@ -74,7 +74,7 @@
 }
 
 .healthmug-links p:hover{
-     background-color: #E3B7A0;
+     background-color: #FFEDDB;
 }
 
 .healthmug-links p a{

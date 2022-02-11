@@ -47,6 +47,8 @@ header h1:hover {
 }
 
 .main-nav li:hover {
+	background-color: #FFEDDB;
+	border-radius: 20%;
 	color: #0080ff;
      cursor: pointer;
 }
