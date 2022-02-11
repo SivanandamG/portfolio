@@ -1,6 +1,7 @@
 .parent {
+  border: 3px sloid #F3C5C5;
   background-color: #F3C5C5;
-  height: 450px;
+  height: 430px;
   display: flex;
 }
 .parent h1 {

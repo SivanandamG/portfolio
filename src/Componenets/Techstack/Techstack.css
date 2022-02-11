@@ -56,16 +56,18 @@
 #techstack .proficiency{
      width: 40%;
      margin: auto;
+     /* border: 3px solid black; */
      margin-top: 30px;
 }
 
 .proficiency i{
      font-size: 300%;
-     margin-left: 38%;
+     margin-left: 20%;
 }
 .class{
      margin: auto;
-     width: 14%;
+     /* border: 3px black solid; */
+     width: 33%;
 }
 
 .class span{
@@ -80,8 +82,12 @@
      margin-left: 15.5%;
 }
 
+.class span:nth-child(3){
+     margin-left: 11.5%;
+}
+
 .proficiency img{
      width:6.5%;
-     margin-left: 11.5%;
+     margin-left: 20%;
 }
 

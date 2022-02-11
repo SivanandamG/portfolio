@@ -23,10 +23,10 @@ export default function Techstack({children}){
                <div className="proficiency">
                     <i style={{ color: '#000000' }}  className="fab fa-html5"></i>
                     <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="_blank"/>
-                    {/* <img src="https://img.icons8.com/external-color-outline-adri-ansyah/64/000000/external-connect-social-media-interface-color-outline-adri-ansyah.png" alt="_blank"/> */}
+                    <img src="https://cdn-icons.flaticon.com/png/512/4699/premium/4699844.png?token=exp=1644563731~hmac=ce2ed41f40174c3800992bbc9a217ec0" alt="_blank"/>
                </div>
                
-               <div className="class"><span>Frontend</span><span>Backend</span></div>
+               <div className="class"><span>Frontend</span><span>Backend</span><span>DataStructures</span></div>
                {/* <span>DataStructures</span> */}
 
           </div>

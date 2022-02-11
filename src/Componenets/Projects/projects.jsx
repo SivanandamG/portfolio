@@ -8,7 +8,7 @@ export default function Projects({children}){
                <br />
           <div id="projects">
                <div id="healthmug" className="projdiv">
-                    <img width={"100%"} height={"200px"} src="https://github.com/SivanandamG/portfolio/blob/f1b20063a24aed531a0a8ad9f21fc6ff5e4b3a83/healthmug.png?raw=true" alt="" />
+                    <img width={"100%"} height={"200px"}  src="https://github.com/SivanandamG/portfolio/blob/f1b20063a24aed531a0a8ad9f21fc6ff5e4b3a83/healthmug.png?raw=true" alt="" />
                     <p>Healthmug is exclusive for medicines with different types allopathy ,Homeopathy and more</p>
                     <p>Tech Stack : HTML5, CSS3, Javascript</p>
                     <div className="healthmug-links">
